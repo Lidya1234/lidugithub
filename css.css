@@ -1,8 +1,11 @@
 #main-section
 {
     font-size: 10px;
-    font-style: italic;
+    font-family:inherit;
+    font-style:italic;
     
 }
-
-
+.main-section
+{
+   flex-wrap: center; 
+}
